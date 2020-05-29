@@ -13,3 +13,21 @@ place a csv file named test.csv
  else run demo.py
 
 PLUS: Please ignore test, test1, tester type of file. Its my habbit to test seperate portions to visually perceive output are of my desire or not.
+
+
+Single.py --> Implements single iteams processing.
+
+Doublet.py --> Processes for pair of items.
+
+triplet.py--> Work for triplet items calculations.
+
+quardruple.py --> Work for quardruple items sets.
+
+Marketbasket.py --> this is just for authenticate page for our programe.
+
+demo.py --> if you dnot want that authenticate page, run demo.py directly though marketbasket.py additionally calls demo.py internally.
+
+Consequential: Their can be issue regarding sql connectivity. Please inscribe your localhost or server host name and its password for your self utilization.
+
+Other files are just for My development phase.
+
