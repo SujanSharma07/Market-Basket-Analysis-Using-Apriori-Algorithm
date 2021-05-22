@@ -12,7 +12,7 @@ place a csv file named test.csv
 2: run marketbasket.py (username:admin passwd: admin)
  else run demo.py
 
-PLUS: Please ignore test, test1, tester type of file. Its my habbit to test seperate portions to visually perceive output are of my desire or not.
+PLUS: Please ignore test, test1, tester type of file.
 
 
 Single.py --> Implements single iteams processing.
@@ -29,5 +29,5 @@ demo.py --> if you dnot want that authenticate page, run demo.py directly though
 
 Consequential: Their can be issue regarding sql connectivity. Please inscribe your localhost or server host name and its password for your self utilization.
 
-Other files are just for My development phase.
+Other files are just for development phase.
 
